@@ -1,0 +1,9 @@
+# Ignorar todo
+*
+
+# Excepto el .gitignore mismo
+!.gitignore
+
+# Excepto la carpeta publish y su contenido
+!publish/
+!publish/**
